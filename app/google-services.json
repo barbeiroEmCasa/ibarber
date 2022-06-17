@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809888220067",
+    "project_id": "ibarber-55923",
+    "storage_bucket": "ibarber-55923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809888220067:android:22175554bfa925f5c79016",
+        "android_client_info": {
+          "package_name": "com.paiva.ibarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809888220067-i1rqu2lenuhfhfdptu27fes1dl0m454l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13NLsXF5TBBke-cPVbyJ7_ASXKCAwoj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809888220067-i1rqu2lenuhfhfdptu27fes1dl0m454l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
